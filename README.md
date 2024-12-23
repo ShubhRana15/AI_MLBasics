@@ -1,1 +1,1 @@
-# AI_MLBasics
+# AI_ML_Beginner_TitanicKaggle
